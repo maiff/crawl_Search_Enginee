@@ -182,6 +182,7 @@ ITEM_PIPELINES = {
 
 REDIS_HOST = "localhost"
 REDIS_PORT = 6379
+EWDIS_PASSWD = "xwt"
 
 
 
