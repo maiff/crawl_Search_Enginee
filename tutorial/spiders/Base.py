@@ -1,64 +1,82 @@
-# import scrapy
-import hashlib
-# from scrapy.spiders import Rule,CrawlSpider
-# from scrapy.linkextractors import LinkExtractor
-#
+import time
 
-from scrapy.contrib.spiders import CrawlSpider, Rule
+from ..until import until
+from urllib import parse
+
+from os.path import basename,splitext
+from scrapy_redis.spiders import RedisCrawlSpider
+from scrapy.contrib.spiders import Rule
 from scrapy.contrib.linkextractors import LinkExtractor
+from ..items import *
+# from scrapy.loader import ItemLoader
 
+from tutorial.settings import *
 
-class QuotesSpider(CrawlSpider):
-    name = "base"
-    start_urls = [
-        'http://www.maiff.cn',
-    ]
-    allowed_domains = [
-        'maiff.cn',
-    ]
+class Base(RedisCrawlSpider):
+    """Spider that reads urls from redis queue (myspider:start_urls)."""
+    name = 'base'
+    redis_key = 'base:start_urls'
+    allowed_domains = ALLOWED_DOMAINS
+
     rules = (
-        Rule(LinkExtractor(deny=('english.dhu.edu.cn')), callback='parse_test', follow=True),
+        # follow all links
+        Rule(LinkExtractor(deny=('english.dhu.edu.cn')), callback='parse_page', follow=True),
     )
-    # def start_requests(self):
-    #     urls = [
-    #         'http://www.dhu.edu.cn',
-    #     ]
-    #     allowed_domains = [
-    #         'dhu.edu.cn',
-    #     ]
-    #     rules = (
-    #         Rule(LinkExtractor(allow=('dhu')), callback='parse_test', follow=True),
-    #     )
-    #     for url in urls:
-    #         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse_test(self, response):
-        print(response.meta)
-        m = hashlib.md5()
-        m.update(response.url.encode())
-        page = m.hexdigest()
-        filename = './test/%s.html' % page
-        with open(filename, 'ab') as f:
-            f.write(response.url.encode())
-            f.write(response.body)
-        # next_pages = response.css('a::attr(href)').extract()
-        # for next_page in next_pages:
-        #     if next_page is not None:
-        #         yield response.follow(next_page, callback=self.parse_test)
+        print(response.url)
+
+    def get_page_item(self, response):
+        nowtime = time.time()
+        url = response.url
+        body = response.body.decode("utf-8")
+        origin = parse.urlparse(url).netloc
+
+        _str = '<__split>'\
+               'data: {}\n' \
+               'url: {}\n' \
+               'origin: {}\n' \
+               '<\__split>\n'\
+               '\n' \
+               '{}'.format(nowtime, url, origin, body)
+        return _str
+
+    def parse_page(self, response):
+
+        page = until.md5(response.url.encode())
+        # print(response.url)
+
+        until.save_file(path='./test/', name=page + '.html', content=self.get_page_item(response).encode())
+
+        urlItem = InformationItem()
+        urlItem['urls'] = parse.quote_plus(response.url)
+        yield urlItem
+
+        links = response.xpath('//a')
+        for index, alink in enumerate(links):
+            href = alink.xpath('@href').extract_first()
+            path = parse.urlparse(href).path
+            filename = '%s' % basename(path)
+            extrename = splitext(filename)[1]
+
+            if extrename in INCLUDE_FILE_TYPE:
+                name = alink.xpath('text()').extract_first()
+                fileItem = self.getFileItem(self.cutHref(href, response.url), name)
+                yield fileItem
 
 
-    # def parse(self, response):
-    #     pass
-    # def parse(self, response):
-    #     m = hashlib.md5()
-    #     m.update(response.url.encode())
-    #     page = m.hexdigest()
-    #     filename = './html/%s.html' % page
-    #     next_pages = response.css('a::attr(href)').extract()
-    #     self.log('****************url %s' % response.url)
-    #     with open(filename, 'wb') as f:
-    #         f.write(response.body)
-    #     for next_page in next_pages:
-    #         if next_page is not None:
-    #             yield response.follow(next_page, callback=self.parse)
-    #     # self.log('****************url %s' % response.url)
+
+    def getFileItem(self, file_urls=None, name=None):
+        fileItem = FileItem()
+        if file_urls is None or name is None:
+            return fileItem
+        else:
+            fileItem['file_urls'] = [file_urls] # 必须为一个list
+            fileItem['name'] = name
+            return fileItem
+
+    def cutHref(self, href='', url=''):
+        if until.isHasHttpOrHttps(href):
+            return href
+        return parse.urljoin(url, href.strip())
+
