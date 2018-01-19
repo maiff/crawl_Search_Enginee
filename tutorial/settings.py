@@ -180,10 +180,7 @@ ITEM_PIPELINES = {
 #REDIS_ENCODING = 'latin1'
 
 
-REDIS_HOST = "localhost"
-REDIS_PORT = 6379
-EWDIS_PASSWD = "xwt"
-
+REDIS_URL = 'redis://:xwt@localhost:6379'
 
 
 FILES_STORE = './file'
