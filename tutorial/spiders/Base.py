@@ -29,7 +29,6 @@ class Base(RedisCrawlSpider):
     def get_page_item(self, response):
         nowtime = time.time()
         url = response.url
-        body = response.body.decode("utf-8")
         origin = parse.urlparse(url).netloc
 
         _str = '<__split>'\
@@ -38,7 +37,7 @@ class Base(RedisCrawlSpider):
                'origin: {}\n' \
                '<\__split>\n'\
                '\n' \
-               '{}'.format(nowtime, url, origin, body)
+               .format(nowtime, url, origin)
         return _str
 
     def parse_page(self, response):
@@ -46,7 +45,7 @@ class Base(RedisCrawlSpider):
         page = until.md5(response.url.encode())
         # print(response.url)
 
-        until.save_file(path='./test/', name=page + '.html', content=self.get_page_item(response).encode())
+        until.save_file(path=ALL_FILE_PATH, name=page + '.sraw', content=self.get_page_item(response).encode() + response.body)
 
         urlItem = InformationItem()
         urlItem['urls'] = parse.quote_plus(response.url)

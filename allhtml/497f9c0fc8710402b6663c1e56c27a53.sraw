@@ -1,0 +1,752 @@
+<__split>data: 1516331799.823562
+url: http://jw.dhu.edu.cn/main.htm
+origin: jw.dhu.edu.cn
+<\__split>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>教务处</title>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+       <LINK href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <LINK href="/_css/tpl2/default/portlet/dtjt/1/picchange.css" type="text/css" rel="stylesheet"> 
+       <LINK href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/jquery.min.js"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+       <script language="javascript" src="/_css/tpl2/default/portlet/dtjt/1/picchange.js"></script> 
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/05/63/1379/template1379/style.css" type="text/css"/>
+<script type="text/javascript" src="/_upload/tpl/05/63/1379/template1379/js/comcus.js">
+</script>
+</head>
+
+
+
+
+
+
+<body>
+<!--Begin:head--><div class="wrapper" id="header"><div class="inner"><!--Begin:head--><div class="head"><div class="sitelogo"><div frag="面板00">
+				</div></div><div class="site"><div frag="面板03">			   </div></div></div><!--Begin:head--><!--End:head--></div></div><!--Begin:nav--><div class="wrapper" id="nav"><div class="inner"><div class="navbar" frag="面板1"><div class="navbox" frag="窗口1"><div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="/sy/list.htm" title="首页" target="_self"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/9959/list.htm" title="教务概况" target="_self"><span class="item-name">教务概况</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i2-1 "> 
+                 <a href="/9967/list.htm" title="机构设置" target="_self"><span class="item-name">机构设置</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 "> 
+                 <a href="/9968/list.htm" title="质量报告" target="_self"><span class="item-name">质量报告</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 "> 
+                 <a href="/9969/list.htm" title="教学简报" target="_self"><span class="item-name">教学简报</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 "> 
+                 <a href="/9970/list.htm" title="教学改革" target="_self"><span class="item-name">教学改革</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 "> 
+                 <a href="/9972/list.htm" title="教务文件" target="_self"><span class="item-name">教务文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/9960/list.htm" title="规章制度" target="_self"><span class="item-name">规章制度</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i3-1 "> 
+                 <a href="/9973/list.htm" title="教师" target="_self"><span class="item-name">教师</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2 "> 
+                 <a href="/9974/list.htm" title="学生" target="_self"><span class="item-name">学生</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/9961/list.htm" title="辅修专业" target="_self"><span class="item-name">辅修专业</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i4-1 "> 
+                 <a href="/fxtzgg/list.htm" title="辅修通知公告" target="_self"><span class="item-name">辅修通知公告</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 "> 
+                 <a href="/fxwj/list.htm" title="辅修文件" target="_self"><span class="item-name">辅修文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 "> 
+                 <a href="/fxxsxwxt/list.htm" title="辅修学士学位系统" target="_self"><span class="item-name">辅修学士学位系统</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/9962/list.htm" title="教学成果" target="_self"><span class="item-name">教学成果</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i5-1 "> 
+                 <a href="/jxcg/list.htm" title="教学成果" target="_self"><span class="item-name">教学成果</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/9963/list.htm" title="办事指南" target="_self"><span class="item-name">办事指南</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i6-1 "> 
+                 <a href="/9975/list.htm" title="教师办事指南" target="_self"><span class="item-name">教师办事指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 "> 
+                 <a href="/9976/list.htm" title="学生办事指南" target="_self"><span class="item-name">学生办事指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/9964/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i7-1 "> 
+                 <a href="/9977/list.htm" title="教师下载" target="_self"><span class="item-name">教师下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2 "> 
+                 <a href="/9978/list.htm" title="学生下载" target="_self"><span class="item-name">学生下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/cjwt/list.htm" title="常见问题" target="_self"><span class="item-name">常见问题</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/jxrl/list.htm" title="教学日历" target="_self"><span class="item-name">教学日历</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div></div><div class="navbox" frag="窗口136"></div><div frag="窗口140"></div></div></div></div><!--End:nav--><div class="wrapper" id="banner"><div class="inner"><div frag="面板2"><div frag="窗口141"><div style="width:100%;height:100%" class="dtjt3_w141">
+	<div id="picbasew141"></div>
+</div>
+
+<script class="" >
+			        
+			    
+</script></div></div></div></div><!--End:head--><div class="wrapper" id="m-container1"><div class="inner"><div class="mod mod1"><div class="ml" frag="面板11"><div class="post post-111 mbox" frag="窗口111"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="通知公告-学生专栏">                                                                          通知公告-学生专栏</span></h3><div class="more_btn" frag="按钮" type="更多"><a href="/tzggwxszl/list.htm" class="w111_more"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></a></div></div><div class="con"><div id="wp_news_w111"> 
+ 
+<ul class="wp_article_list"> 
+      
+     <li class="list_item i1"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>1</span> 
+             <span class='Article_Title'><a href='/a6/6a/c9979a173674/page.htm' target='_blank' title='校外网络使用VPN访问本科教务管理系统的说明' alt='校外网络使用VPN访问本科教务管理系统的说明'><font style='font-weight:bold;color:#FF170F;'>校外网络使用VPN访问本科教务管理系统的说明</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2016-12-28</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i2"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>2</span> 
+             <span class='Article_Title'><a href='/e9/00/c9979a190720/page.htm' target='_blank' title='东华大学2018年全国大学生英语竞赛报名及缴费通知' alt='东华大学2018年全国大学生英语竞赛报名及缴费通知'>东华大学2018年全国大学生英语竞赛报名及缴费通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-19</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i3"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>3</span> 
+             <span class='Article_Title'><a href='/e8/90/c9979a190608/page.htm' target='_blank' title='2018年1月本科毕业生证书领取通知' alt='2018年1月本科毕业生证书领取通知'><font style='font-weight:bold;'>2018年1月本科毕业生证书领取通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-16</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i4"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>4</span> 
+             <span class='Article_Title'><a href='/e8/7e/c9979a190590/page.htm' target='_blank' title='2017年12月份全国计算机等级考试领取合格证书的通知' alt='2017年12月份全国计算机等级考试领取合格证书的通知'>2017年12月份全国计算机等级考试领取合格证书的通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-15</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i5"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>5</span> 
+             <span class='Article_Title'><a href='/e8/7b/c9979a190587/page.htm' target='_blank' title='2018年(第十届)上海市大学生计算机应用能力大赛参赛名单及报名费交付通知' alt='2018年(第十届)上海市大学生计算机应用能力大赛参赛名单及报名费交付通知'>2018年(第十届)上海市大学生计算机应用能力大赛参赛名单及报名费交付通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-15</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i6"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>6</span> 
+             <span class='Article_Title'><a href='/e8/21/c9979a190497/page.htm' target='_blank' title='2017-2018学年第二学期本科生开学通知' alt='2017-2018学年第二学期本科生开学通知'><font style='font-weight:bold;'>2017-2018学年第二学期本科生开学通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-12</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i7"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>7</span> 
+             <span class='Article_Title'><a href='/e7/41/c9979a190273/page.htm' target='_blank' title='关于尔雅视频文化素质类课程成绩记载的说明' alt='关于尔雅视频文化素质类课程成绩记载的说明'><font style='font-weight:bold;color:#120AFF;'>关于尔雅视频文化素质类课程成绩记载的说明</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2018-01-10</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i8"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>8</span> 
+             <span class='Article_Title'><a href='/e3/bc/c9979a189372/page.htm' target='_blank' title='新增英语拓展类课程的通知' alt='新增英语拓展类课程的通知'><font style='font-weight:bold;color:#FF8E1C;'>新增英语拓展类课程的通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2018-01-09</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i9"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>9</span> 
+             <span class='Article_Title'><a href='/e3/c2/c9979a189378/page.htm' target='_blank' title='关于选修“好大学在线”慕课课程的通知' alt='关于选修“好大学在线”慕课课程的通知'><font style='font-weight:bold;'>关于选修“好大学在线”慕课课程的通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-05</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i10"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>10</span> 
+             <span class='Article_Title'><a href='/e3/76/c9979a189302/page.htm' target='_blank' title='美国加州大学河滨分校工程3+1+(硕博)项目选拔通知（第六期 2018年秋 伯恩斯工程学院）' alt='美国加州大学河滨分校工程3+1+(硕博)项目选拔通知（第六期 2018年秋 伯恩斯工程学院）'><font style='color:#1B10B5;'>美国加州大学河滨分校工程3+1+(硕博)项目选拔通知（第六期 2018年秋 伯恩斯工程学院）</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-04</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i11"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>11</span> 
+             <span class='Article_Title'><a href='/e3/74/c9979a189300/page.htm' target='_blank' title='美国加州大学河滨分校访学项目选拔通知（一学期项目）' alt='美国加州大学河滨分校访学项目选拔通知（一学期项目）'><font style='font-weight:bold;color:#1117BF;'>美国加州大学河滨分校访学项目选拔通知（一学期项目）</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-04</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i12"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>12</span> 
+             <span class='Article_Title'><a href='/e3/73/c9979a189299/page.htm' target='_blank' title=' 2018年国家公派留学项目宣讲会（1月12日）' alt=' 2018年国家公派留学项目宣讲会（1月12日）'> 2018年国家公派留学项目宣讲会（1月12日）</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2018-01-04</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i13"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>13</span> 
+             <span class='Article_Title'><a href='/e2/95/c9979a189077/page.htm' target='_blank' title='体育类课程选课紧急通知' alt='体育类课程选课紧急通知'><font style='font-weight:bold;color:#FF2908;'>体育类课程选课紧急通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2018-01-03</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i14"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>14</span> 
+             <span class='Article_Title'><a href='/e1/53/c9979a188755/page.htm' target='_blank' title='2017-2018学年第1学期各年级各专业放假时间一览表' alt='2017-2018学年第1学期各年级各专业放假时间一览表'><font style='font-weight:bold;'>2017-2018学年第1学期各年级各专业放假时间一览表</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2017-12-26</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i15"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>15</span> 
+             <span class='Article_Title'><a href='/e0/b5/c9979a188597/page.htm' target='_blank' title='本科生计算机公共基础课2017-2018第一学期期末考试名单及具体安排' alt='本科生计算机公共基础课2017-2018第一学期期末考试名单及具体安排'><font style='font-weight:bold;color:#FF1745;'>本科生计算机公共基础课2017-2018第一学期期末考试名单及具体安排</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2017-12-22</span> 
+              
+         </div> 
+     </li> 
+      
+</ul> 
+
+<div class="more"><a class="more-link" href="/tzggwxszl/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></div></div> 
+</div></div><div class="post post-113 mbox" frag="窗口113"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="通知公告-教师专栏">                                                                      通知公告-教师专栏</span></h3><div class="more_btn" frag="按钮" type="更多"><a href="/tzggwjszl/list.htm" class="w113_more"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></a></div></div><div class="con"><div id="wp_news_w113"> 
+ 
+<ul class="wp_article_list"> 
+      
+     <li class="list_item i1"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>1</span> 
+             <span class='Article_Title'><a href='/e0/2e/c9980a188462/page.htm' target='_blank' title='关于东华大学2018年节假日期间教学安排的通知' alt='关于东华大学2018年节假日期间教学安排的通知'><font style='font-weight:bold;color:#FF2008;'>关于东华大学2018年节假日期间教学安排的通知</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2017-12-21</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i2"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>2</span> 
+             <span class='Article_Title'><a href='/a6/6a/c9980a173674/page.htm' target='_blank' title='校外网络使用VPN访问本科教务管理系统的说明' alt='校外网络使用VPN访问本科教务管理系统的说明'><font style='font-weight:bold;color:#FF170F;'>校外网络使用VPN访问本科教务管理系统的说明</font></a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class='Article_HotIcon'><img src='/_js/_portletPlugs/simpleNews/images/hot.gif' /></span> 
+              
+             <span class='Article_PublishDate'>2016-12-28</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i3"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>3</span> 
+             <span class='Article_Title'><a href='/e1/60/c9980a188768/page.htm' target='_blank' title='2017年上海市计算机等级考试成绩查询的通知' alt='2017年上海市计算机等级考试成绩查询的通知'>2017年上海市计算机等级考试成绩查询的通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2017-12-26</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i4"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>4</span> 
+             <span class='Article_Title'><a href='/df/7b/c9980a188283/page.htm' target='_blank' title='关于公布2017年度校级教学成果奖的通知' alt='关于公布2017年度校级教学成果奖的通知'>关于公布2017年度校级教学成果奖的通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2017-12-19</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i5"> 
+         <div class="fields pr_fields"> 
+             <span class='Article_Index'>5</span> 
+             <span class='Article_Title'><a href='/de/7b/c9980a188027/page.htm' target='_blank' title='纺织之光2017年度中国纺织工业联合会纺织高等教育教学成果奖评审结果' alt='纺织之光2017年度中国纺织工业联合会纺织高等教育教学成果奖评审结果'>纺织之光2017年度中国纺织工业联合会纺织高等教育教学成果奖评审结果</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+              
+              
+             <span class='Article_PublishDate'>2017-12-14</span> 
+              
+         </div> 
+     </li> 
+      
+</ul> 
+
+<div class="more"><a class="more-link" href="/tzggwjszl/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></div></div> 
+</div></div><div class="post post-113 mbox" frag="窗口137"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="最热文章">                                                                       最热文章</span></h3><div class="more_btn" frag="按钮" type="更多"><a href="javascript:void(0);" class="w137_more"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></a></div></div><div class="con"><iframe id='wp_iframe_hotArticle_w137' allowtransparency='true' frameborder='0' scrolling='no' src='/_web/relatedarticle/hotArticles.jsp?wid=w137&rows=5&maxLength=40&showFields=T_D_C&hotType=1&months=1&articleType=1&showType=1&sourceType=1&columnNum=3&imgWidth=160&imgHeight=100&folderRange=0&_p=YXM9NDEmdD0xMzc5JmQ9NDA2NCZwPTEmbT1TUyZjPXcxMzcmdj1DJg__' style='width:100%; height:100%'></iframe></div></div></div></div><div class="mod mod2"><div class="mr" frag="面板13"><div class="post post-131 mbox" frag="窗口131"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="常用链接">                                                               常用链接</span></h3><div class="more_btn" frag="按钮" type="更多"><a href="javascript:void(0);" class="w131_more"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></a></div></div><div class="con">
+<style type="text/css"> 
+#wp_nav_w131 .wp_nav {
+	margin: 0px; padding: 0px; display: block;
+}
+#wp_nav_w131 .wp_nav * {
+	margin: 0px; padding: 0px;
+}
+#wp_nav_w131 .wp_nav::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+#wp_nav_w131 .wp_nav .nav-item {
+	vertical-align: bottom; float: left; display: inline-block; position: relative;
+}
+#wp_nav_w131 .wp_nav .on {
+	z-index: 10;
+}
+#wp_nav_w131 .wp_nav .nav-item .mark {
+	left: 0px; top: 0px; width: 100%; height: 100%; display: block; position: absolute; z-index: 99; opacity: 1;
+}
+#wp_nav_w131 .wp_nav .nav-item a {
+	text-align: center; color: rgb(255, 90, 29); font-family: 仿宋_GB231; font-size: 14px; font-weight: bold; display: block; position: relative; z-index: 100; background-color: rgb(233, 241, 255);
+}
+#wp_nav_w131 .wp_nav .nav-item a.parent:hover {
+	font-family: 仿宋_GB231;
+}
+#wp_nav_w131 .wp_nav .nav-item a.parent {
+	color: rgb(0, 0, 0); font-family: 仿宋_GB231;
+}
+#wp_nav_w131 .wp_nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px; display: inline-block; cursor: pointer;
+}
+#wp_nav_w131 .wp_nav .sub-nav {
+	border-image: none; width: 100%; display: block; visibility: hidden; position: absolute; z-index: 200;
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item {
+	white-space: nowrap;
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item .mark {
+	background: rgb(255, 255, 255); opacity: 1;
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a {
+	text-align: left; color: rgb(0, 0, 0); font-size: 13px; font-weight: normal; border-top-color: rgb(216, 225, 204); border-top-width: 1px; border-top-style: solid; min-width: 80px;
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a.parent:hover {
+	background: rgb(238, 238, 238); color: rgb(0, 0, 0);
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a.parent {
+	background: rgb(238, 238, 238); color: rgb(0, 0, 0);
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px;
+}
+#wp_nav_w131 .wp_nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w131 .wp_nav .nav-item a.parent span.item-name {
+	
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w131 .wp_nav .sub-nav .nav-item a.parent span.item-name {
+	text-decoration: none;
+}
+
+</style> 
+<div id="wp_nav_w131"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{vertical: {active: '1', col: '1' }, drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://jwdep.dhu.edu.cn/dhu/index/" title="本科教务管理系统" target="_self"><span class="item-name">本科教务管理系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="http://218.193.151.86/" title="教学基本状态数据库和评估系统" target="_self"><span class="item-name">教学基本状态数据库和评估系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="http://jsfz.dhu.edu.cn/" title="教师教学发展中心" target="_self"><span class="item-name">教师教学发展中心</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="http://jwdep.dhu.edu.cn:8100/login.jsp" title="本科生学业预警与帮扶系统" target="_self"><span class="item-name">本科生学业预警与帮扶系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="http://jpkc.dhu.edu.cn/" title="东华大学精品课程" target="_self"><span class="item-name">东华大学精品课程</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="http://jw.dhu.edu.cn/c5/1a/c9979a181530/page.htm" title="东华大学学分制选课手册（2017级）" target="_self"><span class="item-name">东华大学学分制选课手册（2017级）</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="http://jwdep.dhu.edu.cn/dhu/index/index_detail.jsp?ID=4866" title="东华大学学分制选课手册（2016级）" target="_self"><span class="item-name">东华大学学分制选课手册（2016级）</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="http://jwdep.dhu.edu.cn/dhu/index/index_detail.jsp?ID=4266" title="东华大学学分制选课手册（2015级）" target="_self"><span class="item-name">东华大学学分制选课手册（2015级）</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="http://web.dhu.edu.cn/yywz/" title="东华大学语言文字" target="_self"><span class="item-name">东华大学语言文字</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i10 "> 
+         <a href="http://lab.dhu.edu.cn" title="东华大学实验室智能管理系统" target="_self"><span class="item-name">东华大学实验室智能管理系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i11 "> 
+         <a href="http://epay.dhu.edu.cn/" title="学生网上缴费系统" target="_self"><span class="item-name">学生网上缴费系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i12 "> 
+         <a href="http://www.dhu.edu.cn/" title="东华大学" target="_self"><span class="item-name">东华大学</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i13 "> 
+         <a href="http://my.dhu.edu.cn" title="东华大学数字化信息门户" target="_self"><span class="item-name">东华大学数字化信息门户</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i14 "> 
+         <a href="http://zs.dhu.edu.cn/" title="东华大学本科招生办公室" target="_self"><span class="item-name">东华大学本科招生办公室</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div></div></div><div class="post post-132 mbox" frag="窗口132"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="校外链接">                                                              校外链接</span></h3><div class="more_btn" frag="按钮" type="更多"><a href="javascript:void(0);" class="w132_more"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></a></div></div><div class="con">
+<style type="text/css"> 
+#wp_nav_w132 .wp_nav {
+	margin: 0px; padding: 0px; display: block;
+}
+#wp_nav_w132 .wp_nav * {
+	margin: 0px; padding: 0px;
+}
+#wp_nav_w132 .wp_nav::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+#wp_nav_w132 .wp_nav .nav-item {
+	vertical-align: bottom; float: left; display: inline-block; position: relative;
+}
+#wp_nav_w132 .wp_nav .on {
+	z-index: 10;
+}
+#wp_nav_w132 .wp_nav .nav-item .mark {
+	left: 0px; top: 0px; width: 100%; height: 100%; display: block; position: absolute; z-index: 99; opacity: 1;
+}
+#wp_nav_w132 .wp_nav .nav-item a {
+	text-align: center; font-size: 14px; font-weight: bold; display: block; position: relative; z-index: 100;
+}
+#wp_nav_w132 .wp_nav .nav-item a.parent:hover {
+	color: rgb(255, 87, 45);
+}
+#wp_nav_w132 .wp_nav .nav-item a.parent {
+	color: rgb(0, 0, 0);
+}
+#wp_nav_w132 .wp_nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px; display: inline-block; cursor: pointer;
+}
+#wp_nav_w132 .wp_nav .sub-nav {
+	border-image: none; width: 100%; display: block; visibility: hidden; position: absolute; z-index: 200;
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item {
+	white-space: nowrap;
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item .mark {
+	background: rgb(255, 255, 255); opacity: 1;
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a {
+	text-align: left; color: rgb(0, 0, 0); font-size: 13px; font-weight: normal; border-top-color: rgb(216, 225, 204); border-top-width: 1px; border-top-style: solid; min-width: 80px;
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a.parent:hover {
+	background: rgb(238, 238, 238); color: rgb(0, 0, 0);
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a.parent {
+	background: rgb(238, 238, 238); color: rgb(0, 0, 0);
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px;
+}
+#wp_nav_w132 .wp_nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w132 .wp_nav .nav-item a.parent span.item-name {
+	
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w132 .wp_nav .sub-nav .nav-item a.parent span.item-name {
+	text-decoration: none;
+}
+
+</style> 
+<div id="wp_nav_w132"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{vertical: {active: '1', col: '1' }, drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://www.cbs.fudan.edu.cn/" title="2017年插班生报名系统" target="_self"><span class="item-name">2017年插班生报名系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="http://dhu.mooc.chaoxing.com/" title="超星尔雅通识视频课程" target="_self"><span class="item-name">超星尔雅通识视频课程</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="http://www.ucc.sh.edu.cn/" title="上海高校课程中心" target="_self"><span class="item-name">上海高校课程中心</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="http://www.icourses.cn/home/" title="中国大学精品开放课程" target="_self"><span class="item-name">中国大学精品开放课程</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="http://www.cet.edu.cn/" title="全国大学英语四六级考试" target="_self"><span class="item-name">全国大学英语四六级考试</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div></div></div><div class="post post-132 mbox" frag="窗口138"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="站内搜索">                                                               站内搜索</span></h3></div><div class="con"><form method="POST" action="/_web/search/doSearch.do?_p=YXM9NDEmdD0xMzc5JmQ9NDA2NCZwPTEmbT1TTiY_" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">
+    <div class="wp_search">
+        <table>
+            <tr>
+                <td height="25px">
+                    <input id="keyword" name="keyword" style="width: 150px" class="keyword" type="text" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }" onblur="if (this.value === '') { this.value = '请输入关键字'; }" />
+                </td>
+                <td>
+                    <input name="btnsearch" class="search" type="submit" value=""/>
+                </td>
+            </tr>
+        </table>
+    </div>
+</form></div></div><div class="post post-132 mbox" frag="窗口139"><div class="tt"><h3 class="tit"><span  class="title" frag="标题" title="访问总次数">                                                                访问总次数</span></h3></div><div class="con"><img border="0" src="/_visitcountdisplay?siteId=41&type=1&dispMode=1&statMode=1" /></div></div></div></div><div class="clear"></div></div></div><div class="wrapper" id="footer"><div class="inner clearfix"><div class="copyright" frag="面板01"><p><a href="mailto:Copyright@2016">Copyright@2016</a> 松江校区：上海市松江区人民北路2999号 201620，延安路校区：上海市延安西路1882号 200051</p><p>沪ICP备05003365&nbsp;<a>jwdep</a>@dhu.edu.cn</p></div></div></div>
+</body>
+</html>
+ <image src="/_visitcount?siteId=41&type=1&columnId=2072" style="display:none" width="0" height="0"></image>

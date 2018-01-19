@@ -105,7 +105,7 @@ DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 
 
 # 调度状态持久化，不清理redis缓存，允许暂停/启动爬虫
-SCHEDULER_PERSIST = False
+SCHEDULER_PERSIST = True
 
 # 请求调度使用优先队列（默认)
 #SCHEDULER_QUEUE_CLASS = 'scrapy_redis.queue.SpiderPriorityQueue'
@@ -195,3 +195,5 @@ INCLUDE_FILE_TYPE = {
     '.doc',
     '.docx'
 }
+
+ALL_FILE_PATH = './allhtml/'
